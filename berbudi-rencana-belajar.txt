@@ -3,3 +3,4 @@ Rencana Belajar
 - Belajar CSS
 - Belajar JavaScript
 - Belajar framework
+  + framework react.js
